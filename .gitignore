@@ -97,3 +97,7 @@ tests/test-tokenizer-0-llama
 tests/test-tokenizer-0-falcon
 tests/test-tokenizer-1-llama
 tests/test-tokenizer-1-bpe
+
+finetuning/saved_model_directory
+finetuning/llama-2-7b-miniguanaco
+finetuning/results
